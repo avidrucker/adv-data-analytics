@@ -1,0 +1,13 @@
+- make a "repo" repository on GitHub
+1. create a GH account
+2. open your account
+3. click on "repositories" tab
+4. click on the green "new" button
+5. for me, I will name my new repo "adv-data-analytics" (you can use any name you like)
+6. click green "create repository"
+
+7. if you already have a file to upload, you can now click on the blue hyperlink "uploading an existing file"
+
+- upload a file to a repo
+- download a file from a repo
+
