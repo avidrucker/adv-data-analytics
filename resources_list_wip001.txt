@@ -1,0 +1,40 @@
+Graphing in Python
+#https://python-graph-gallery.com/
+
+
+Jupyter Notebooks
+***
+#add code folding to code blocks in JN cells
+#https://github.com/ipython-contrib/jupyter_contrib_nbextensions
+#!pip install jupyter_contrib_nbextensions --user
+#!jupyter contrib nbextension install --user
+!jupyter nbextension enable codefolding/main
+
+# format float numbers
+# https://stackoverflow.com/questions/8885663/how-to-format-a-floating-number-to-fixed-width-in-python
+
+# export/save out graphs to PNG/image files as you render them
+# https://www.datacamp.com/community/tutorials/matplotlib-tutorial-python
+
+#plt.grid(True) #add major gridlines
+#https://stackoverflow.com/questions/6774086/why-is-my-xlabel-cut-off-in-my-matplotlib-plot
+#plt.tight_layout() # https://matplotlib.org/users/tight_layout_guide.html
+
+# https://stackoverflow.com/questions/34796451/changing-the-marker-size-in-python-seaborn-lmplot
+
+
+
+GitHub
+***
+# https://medium.com/@haydar_ai/learning-how-to-git-ignoring-files-and-folders-using-gitignore-177556afdbe3
+
+#handle cross platform (PC/Mac, Linux/PC) code transfers
+#https://stackoverflow.com/questions/5834014/lf-will-be-replaced-by-crlf-in-git-what-is-that-and-is-it-important
+#git config --global core.autocrlf true
+
+# how to create a new file in powershell
+# echo $null >> filename
+# https://superuser.com/questions/502374/equivalent-of-linux-touch-to-create-an-empty-file-with-powershell
+
+
+# https://github.com/github/gitignore
