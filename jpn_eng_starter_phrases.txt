@@ -1,0 +1,11 @@
+arigatou | thank you (casual) | Arigatou Yuka. | Thanks Yuka.
+arigatou-gozaimasu | thank you (polite) | Yamada-san arigatou-gozaimasu. | Thank you, Mrs. Yamada.
+ohayou | good morning (casual) | Ohayou Kenta! | Good morning Kenta!
+ohayou-gozaimasu | good morning (polite) | Tanaka-san ohayou-gozaimasu. | Goodmorning, Mr. Tanaka.
+ichi | the number one
+ni | the number two
+san | the number three ; Mr. ; Mrs.
+kudasai | please give me | San-doru kudasai. | Three dollars please.
+doru | dollar ; dollars
+desu | noun/adjective polite marker| Ichi-doru desu. | It's one dollar.
+ka | question marker (polite) | Tanaka-san desu ka? | Are you Mr. Tanaka?
