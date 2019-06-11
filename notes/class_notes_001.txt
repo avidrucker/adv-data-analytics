@@ -1,0 +1,22 @@
+day 1 hw:
+- install anaconda
+
+how to write a program:
+step 1: decide what the program is to do
+step 2: write out, step by step, what the program is to do
+step 3: test it
+
+"structure theorum"
+
+Notes for Dave:
+- discuss web dev ecosystem
+
+proper planning prevents poor performance
+
+input: a list of the source data provided to the problem
+output: a list of the outputs required
+processing steps: a list of the actions needed to produce the required outputs
+
+resources:
+- coding ground
+- learn x in y minutes
