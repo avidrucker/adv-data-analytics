@@ -1,0 +1,21 @@
+A wild pack of Chihuahuas terrorizing the countryside has a mean height of 7.5 inches, with a standard deviation of 1.5 inches. We feel sorry for the person who had to measure that. What proportion of these Chihuahuas are between 6 and 9 inches tall?
+
+You can use this table to answer the question.
+
+===================
+
+People's monthly electric bills in Shmoopsville are normally distributed with a mean of $225 and a standard deviation of $55. Those Shmoopers spend a lot of time online. In a group of 500 customers, how many would we expect to have a bill that is $100 or less?
+
+You can use this table to answer the question.
+
+===================
+
+People's monthly electric bills in Shmoopsville are normally distributed with a mean of $225 and a standard deviation of $55. Those Shmoopers spend a lot of time online. In a group of 500 customers, how many would we expect to have a bill that is $100 or less?
+
+You can use this table to answer the question.
+
+===================
+
+# Bibliography
+
+Shmoop Editorial Team. "The Normal Distribution Examples." Shmoop. Shmoop University, Inc., 11 Nov. 2008. Web. 11 Jun. 2019. https://www.shmoop.com/precalculus-statistics-probability/normal-distribution-examples.html

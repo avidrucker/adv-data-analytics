@@ -1,0 +1,31 @@
+Images in Jupyter Notebooks:
+
+https://stackoverflow.com/questions/40645782/display-an-image-from-web-using-ipython-display-image-sometimes-work-sometimes
+
+https://stackoverflow.com/questions/32370281/how-to-embed-image-or-picture-in-jupyter-notebook-either-from-a-local-machine-o
+
+
+===========
+
+!!!!!
+Checklist for your data science projects:
+http://jeremyjaytaylor.squarespace.com/smmctheblog/top-ten-tips-for-data-analysis-to-make-your-research-life-ea.html
+
+!!!!
+Level up your statistics:
+https://www.twilio.com/blog/2017/10/basic-statistics-python-numpy-jupyter-notebook.html
+
+
+
+https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/
+
+https://www.dummies.com/education/math/statistics/what-a-p-value-tells-you-about-statistical-data/
+
+!!!
+https://medium.com/@peterflom/what-happens-when-we-categorize-an-independent-variable-in-regression-77d4c5862b6c
+
+!!!
+https://www.quora.com/What-is-standard-deviation-in-simple-words
+
+http://jeremyjaytaylor.squarespace.com/
+
